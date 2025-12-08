@@ -147,6 +147,7 @@ mod react {
     pub mod no_string_refs;
     pub mod no_unescaped_entities;
     pub mod react_in_jsx_scope;
+    pub mod require_render_return;
 }
 
 mod unicorn {
